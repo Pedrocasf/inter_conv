@@ -1,0 +1,7 @@
+[package]
+name = "inter_conv"
+version = "0.0.1"
+authors = ["Pedrocasf"]
+edition = "2018"
+
+[dependencies]
